@@ -1,6 +1,4 @@
 # TTCN_Nhom4
-Thực Tập Công Nghiệp Nhóm 4
-
 Thông tin thành viên: 
 
 Đoàm Duy Đạt - 21012865
